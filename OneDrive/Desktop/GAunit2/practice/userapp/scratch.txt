@@ -1,0 +1,2 @@
+sequelize model:create--name user--attributes
+name:string,age:integer,email:string
